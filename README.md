@@ -1,6 +1,7 @@
 # Zerowing Homebrew tap
 
 ```bash
+brew trust muhammadalims/tap   # newer Homebrew asks you to trust third-party taps
 brew install --cask muhammadalims/tap/brink
 ```
 
