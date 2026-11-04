@@ -1,6 +1,6 @@
 cask "brink" do
-  version "1.0.5"
-  sha256 "258735c20ef356edbb88db97738d9863548c71e3073e428f86237dacb61732c1"
+  version "1.0.6"
+  sha256 "1e1039c5cecb4a5fbd8f6ce93efd23494ed44b6a0b62de9dbae2e021ccc246fd"
 
   url "https://github.com/MuhammadaliMS/brink-releases/releases/download/v#{version}/Brink_#{version}_universal.dmg"
   name "Brink"
